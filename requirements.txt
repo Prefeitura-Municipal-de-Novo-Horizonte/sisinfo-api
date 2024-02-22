@@ -1,0 +1,13 @@
+django
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+django-filter
+markdown
+python-decouple
+psycopg2-binary
+django-extensions
+dj-database-url
+cpf-cnpj-validate
+pylint
